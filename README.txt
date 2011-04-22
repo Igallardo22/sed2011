@@ -1,8 +1,8 @@
-Este es un proyecto para la universidad, en el diseñaremos un circuito entero, aunque se implementara en VHDL.
+ï»¿Este es un proyecto para la universidad, en el diseÃ±aremos un circuito entero, aunque se implementara en VHDL.
 
 
 El material a utilizar sera:
 
--Orcad 16.3 para el diseño del circuito, y el esquema general, utilizando solo la librería en este repositorio y teniendo en cuenta que es una versión demo. La carpeta para el diseño es ./orcad
--Xilinx ISE 13.1 para la descripcion en VHDL, la carpeta, es ./src/vhdl en la que unicamente se pondrán los .vhd y los ficheros de proyecto, intentando minimizar así el peso del repositorio
--PblazeIDE para la programación en Ensamblador
+-Orcad 16.3 para el diseÃ±o del circuito, y el esquema general, utilizando solo la librerÃ­a en este repositorio y teniendo en cuenta que es una versiÃ³n demo. La carpeta para el diseÃ±o es ./orcad
+-Xilinx ISE 13.1 para la descripcion en VHDL, la carpeta, es ./src/vhdl en la que unicamente se pondrÃ¡n los .vhd y los ficheros de proyecto, intentando minimizar asÃ­ el peso del repositorio
+-PblazeIDE para la programaciÃ³n en Ensamblador
