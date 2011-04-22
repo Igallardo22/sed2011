@@ -1,0 +1,76 @@
+(ExpressProject "picoblade"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB - Simulate VHDL")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\librerias\picoblade.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\picoblade.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (74HC137
+      (FullPartName "74HC137.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (picoblaze
+      (FullPartName "picoblaze.Normal")
+      (LibraryName "C:\SED\ORCAD\LIBRERIAS\PICOBLADE.OLB")
+      (DeviceIndex "0"))
+    (ROM
+      (FullPartName "ROM.Normal")
+      (LibraryName "C:\SED\ORCAD\LIBRERIAS\PICOBLADE.OLB")
+      (DeviceIndex "0"))
+    (Timer
+      (FullPartName "Timer.Normal")
+      (LibraryName "C:\SED\ORCAD\LIBRERIAS\PICOBLADE.OLB")
+      (DeviceIndex "0"))
+    (AM79C961A/FP
+      (FullPartName "AM79C961A/FP.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
+      (DeviceIndex "0"))
+    (UC5818/LCC
+      (FullPartName "UC5818/LCC.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.3_DEMO\TOOLS\CAPTURE\LIBRARY\MISC2.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\picoblade.dsn")
+      (Path "Design Resources" ".\picoblade.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" ".\picoblade.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 371"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 13 1124 9 564")
+        (Scroll "0 253")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path "C:\SED\ORCAD\PICOBLADE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\OrCAD\OrCAD_16.3_Demo\tools\capture\library")
+  (MPSSessionName "Javier"))
