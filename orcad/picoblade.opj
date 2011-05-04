@@ -17,6 +17,24 @@
     (PORTBOTH-R
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PWM
+      (FullPartName "PWM.Normal")
+      (LibraryName "C:\SED\ORCAD\PICOBLAZE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (74AHC257/SO
+      (FullPartName "74AHC257/SO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\MUXDECODER.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (GND_POWER
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -34,12 +52,6 @@
     (14555
       (FullPartName "14555.Normal")
       (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\MUXDECODER.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-R
-      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (Timer
       (FullPartName "Timer.Normal")
@@ -93,8 +105,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 13 1124 9 564")
-        (Scroll "-168 0")
-        (Zoom "75")
+        (Scroll "0 182")
+        (Zoom "300")
         (Occurrence "/"))
       (Path "C:\SED\ORCAD\PICOBLADE.DSN")
       (Schematic "SCHEMATIC1")
@@ -103,7 +115,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 175 994 175 584")
-        (Scroll "0 0")
+        (Scroll "441 112")
         (Zoom "150")
         (Occurrence "/"))
       (Path "C:\SED\ORCAD\PICOBLADE.DSN")
